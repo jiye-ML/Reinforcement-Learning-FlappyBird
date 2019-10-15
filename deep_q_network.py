@@ -208,8 +208,15 @@ def playGame():
     s, readout, h_fc1 = createNetwork()
     trainNetwork(s, readout, h_fc1, sess)
 
+    pass
+
 def main():
     playGame()
 
+    pass
+
 if __name__ == "__main__":
+
     main()
+
+    pass
